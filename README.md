@@ -9,12 +9,10 @@
 
 <!-- Ferramentas e tecnologias -->
 ### Ferramentas e Tecnologias
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobe%20after%20effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue?logo=adobe%20photoshop&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-pink?logo=sass&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white)
