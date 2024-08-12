@@ -4,8 +4,8 @@
 > Desenvolvedor Full-Stack
 
 <!-- Descrição pessoal e conquistas -->
-- 🎓 Estou atualmente finalizando o ultimo semestre do Ensino Médio com Habilitação Profissional de Técnico Em Informática para Internet pela ETEC de Franco da Rocha
-- 💻 Desenvolvedor Full-Stack
+- 🎓 Estou atualmente finalizando o ultimo semestre do Ensino Médio com Habilitação Profissional de Técnico Em Informática para Internet pela ETEC de Franco da Rocha.
+- 💻 Realizo de forma autônoma estudos sobre programação em meu tempo livre.
 
 <!-- Ferramentas e tecnologias -->
 ### Ferramentas e Tecnologias
