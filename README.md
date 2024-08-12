@@ -1,5 +1,5 @@
 <!-- Título e descrição -->
-# Olá! Me chamo Miguel Marcondes!
+# Olá! Eu me chamo Miguel Marcondes!
 
 > Desenvolvedor Full-Stack
 
