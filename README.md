@@ -41,6 +41,10 @@
     <a href="https://developer.android.com/studio" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
     </a>
+    <a href="https://www.canva.com/" target="_blank">
+        <img src="https://github.com/get-icon/geticon/raw/master/icons/canva.svg" alt="Canva" width="40" height="40"/>
+    </a>
+    
     <a href="https://insomnia.rest/" target="_blank">
         <img src="https://github.com/get-icon/geticon/raw/master/icons/insomnia.svg" alt="Insomnia" width="40" height="40"/>
     </a>
