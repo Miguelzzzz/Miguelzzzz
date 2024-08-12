@@ -44,8 +44,8 @@
     <a href="https://insomnia.rest/" target="_blank">
         <img src="https://github.com/get-icon/geticon/raw/master/icons/insomnia.svg" alt="Insomnia" width="40" height="40"/>
     </a>
-    <a href="https://www.canva.com/" target="_blank">
-        <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" alt="Canva" width="40" height="40"/>
+    <a href="https://materializecss.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Materialize_Logo.svg/1200px-Materialize_Logo.svg.png" alt="Materialize Logo" width="120" height="auto"/>
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
