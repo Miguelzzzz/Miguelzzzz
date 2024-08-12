@@ -10,15 +10,15 @@
 <!-- Ferramentas e tecnologias -->
 ### Ferramentas e Tecnologias
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?logo=html5&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?logo=css3&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?logo=javascript&style=flat)
-![Java](https://img.shields.io/badge/-Java-000000?logo=java&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-000000?logo=php&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?logo=mysql&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?logo=bootstrap&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?logo=laravel&style=flat)
-![Git](https://img.shields.io/badge/-Git-000000?logo=git&style=flat)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?logo=androidstudio&style=flat)
-![Insomnia](https://img.shields.io/badge/-Insomnia-000000?logo=insomnia&style=flat)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000000?logo=visualstudiocode&style=flat)
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
+<a href="https://insomnia.rest/" target="_blank"><img src="https://user-images.githubusercontent.com/95080665/171065773-bca146c8-69a3-4949-a250-c6b70ff30a4c.png" alt="Insomnia" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
