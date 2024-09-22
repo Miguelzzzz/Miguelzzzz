@@ -48,3 +48,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
     </a>
 </p>
+
+<div>
+  <img height=190em  src="https://github-readme-stats.vercel.app/api?username=Miguelzzzz&show_icons=true&theme=synthwave" />
+  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=donut&theme=synthwave" />
+</div>
