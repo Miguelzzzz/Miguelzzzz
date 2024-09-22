@@ -7,6 +7,14 @@
 - 🎓 Estou atualmente finalizando o ultimo semestre do Ensino Médio com Habilitação Profissional de Técnico Em Informática para Internet pela ETEC de Franco da Rocha.
 - 💻 Realizo de forma autônoma estudos sobre programação em meu tempo livre.
 
+<!--Estatisticas -->
+### Estatisticas
+
+<div>
+  <img height=190em  src="https://github-readme-stats.vercel.app/api?username=Miguelzzzz&show_icons=true&theme=synthwave" />
+  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=donut&theme=synthwave" />
+</div>
+
 <!-- Ferramentas e tecnologias -->
 ### Tecnologias Utilizadas
 
@@ -48,8 +56,3 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
     </a>
 </p>
-
-<div>
-  <img height=190em  src="https://github-readme-stats.vercel.app/api?username=Miguelzzzz&show_icons=true&theme=synthwave" />
-  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=donut&theme=synthwave" />
-</div>
