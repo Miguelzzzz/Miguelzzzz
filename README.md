@@ -9,7 +9,6 @@
 
 <div>
    <img height=190em src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelzzzz" />
-  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=donut" />
 </div>
 
 <!-- Ferramentas e tecnologias -->
