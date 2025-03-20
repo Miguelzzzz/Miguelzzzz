@@ -14,4 +14,4 @@
 <!-- Ferramentas e tecnologias -->
 ### Tecnologias Utilizadas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,postman,php,mysql,laravel,androidstudio,vscode">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,postman,php,mysql,laravel,androidstudio,vscode, materializecss">
