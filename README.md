@@ -20,6 +20,6 @@
   #### Contato
 
 <div >
-<a href="[https://www.linkedin.com/in/gustavo-gualda-95a8112a2/](https://br.linkedin.com/in/miguel--marcondes?trk=people-guest_people_search-card)" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://br.linkedin.com/in/miguel--marcondes?trk=people-guest_people_search-card" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
