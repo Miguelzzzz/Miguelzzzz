@@ -8,7 +8,7 @@
 - 💻 Realizo de forma autônoma estudos sobre programação em meu tempo livre.
 
 <!-- <div>
-   <img height=190em src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelzzzz" />
+   <img height=190em  src="https://github-readme-stats.vercel.app/api?username=Miguelzzzz&show_icons=true" />
 </div> -->
 
 <!-- Ferramentas e tecnologias -->
