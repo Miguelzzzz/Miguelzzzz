@@ -10,7 +10,9 @@
 <div>
    <img height=190em  src="https://github-readme-stats.vercel.app/api?username=Miguelzzzz&show_icons=true" />
    <img height=190em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=compact&langs_count=10" />
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=compact)
+    <img height=190em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=compact" />
+    <img height=190em  src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" />
+
 
 </div>
 
