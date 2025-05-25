@@ -9,7 +9,7 @@
 
 <div>
    <img height=190em  src="https://github-readme-stats.vercel.app/api?username=Miguelzzzz&show_icons=true&theme=radical" />
-   <img height=190em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=compact&langs_count=10" />
+   <img height=190em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=compact&langs_count=10e&theme=radical" />
 </div>
 
 <!-- Ferramentas e tecnologias -->
