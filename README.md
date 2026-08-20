@@ -7,11 +7,6 @@
 - 🎓 Estou atualmente no terceiro semestre da faculdade de Desenvolvimento de Software Multiplataforma na Fatec de Franco da Rocha. Terminei em 2024 o Ensino Médio com Habilitação Profissional de Técnico em Informática para Internet pela ETEC de Franco da Rocha.
 - 💻 Realizo de forma autônoma estudos sobre programação em meu tempo livre.
 
-<div>
-   <img height=190em src="https://github-readme-stats.vercel.app/api?username=Miguelzzzz&show_icons=true&theme=radical" />
-   <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelzzzz&layout=compact&langs_count=10&theme=radical" />
-</div>
-
 <!-- Ferramentas e tecnologias -->
 ### Tecnologias Utilizadas
 
