@@ -4,7 +4,7 @@
 > Desenvolvedor Full-Stack
 
 <!-- Descrição pessoal e conquistas -->
-- 🎓 Estou atualmente no terceiro semestre da faculdade de Desenvolvimento de Software Multiplataforma na Fatec de Franco da Rocha. Terminei em 2024 o Ensino Médio com Habilitação Profissional de Técnico em Informática para Internet pela ETEC de Franco da Rocha.
+- 🎓 Estou atualmente no quarto semestre da faculdade de Desenvolvimento de Software Multiplataforma na Fatec de Franco da Rocha. Terminei em 2024 o Ensino Médio com Habilitação Profissional de Técnico em Informática para Internet pela ETEC de Franco da Rocha.
 - 💻 Realizo de forma autônoma estudos sobre programação em meu tempo livre.
 
 <!-- Ferramentas e tecnologias -->
